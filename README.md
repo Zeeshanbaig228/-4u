@@ -16,8 +16,8 @@
             font-family: Arial, sans-serif;
         }
         h1 {
-            font-size: 5rem;
-            font-weight: bold;
+            font-size: 8rem; /* This makes the text bigger */
+            font-weight: bold; /* This makes the text bold */
             text-align: center;
         }
     </style>
